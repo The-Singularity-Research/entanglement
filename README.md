@@ -1,6 +1,20 @@
 # Entanglement
 ---
 
+Interested in contributing to this project? 
+- Reach out via email to: thesingularity.research@gmail.com
+- Be sure to include "Hacking the Universe" in the subject line, so that the email doesn't get overlooked. 
+- Write a paragraph or two about how you would like to contribute.
+- Ask to Join the Discord server. 
+- Ask to Join the Slack Channel.
+
+This is course material for a course on linear algebra and mathematical prerequisites for quantum computing. It contains Jupyter notebooks that can be downloaded as part of the course or opened in Binder as an online interactive notebook. 
+
+[Become a Sponsor of The Singularity](https://github.com/sponsors/The-Singularity-Research)
+
+
+---
+
 ## What is...Entanglement?
 Entanglement can be thought of as a correlation between states of systems of particles. The state of one particle can be statistically correlated with the state of another particle. The simplest example of this are the **Bell States**. Bell states are states describing a pair of entangled particles, where if one measures the state of one of the particles, then one *automatically* knows the state of the second particle without ever measuring it. This have famours physicists like Einstein, Podolsky, and Rosen great pause and disturbed them at times. Einstein at one point call entanglement a "**spooky action at a distance**". At first it was thought this might provide some way of communicating information faster than light. However, this is now known to not be possible. There are however phenomena such as **quantum teleportation** that use Bell states to transmit quantum information. 
 
