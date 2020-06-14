@@ -1,5 +1,13 @@
 # Entanglement
 ---
+## The Interactive Notebook on Binder
+
+Click on the Binder button for the interactive version of the notebook. 
+
+[Entanglement & Bell States](https://github.com/The-Singularity-Research/entanglement/blob/master/Bell_states.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/entanglement/master?filepath=Bell_states.ipynb)
+
+
+---
 
 Interested in contributing to this project? 
 - Reach out via email to: thesingularity.research@gmail.com
